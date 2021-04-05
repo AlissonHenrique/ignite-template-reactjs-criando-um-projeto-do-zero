@@ -1,1 +1,16 @@
 // TODO
+.headerContainer {
+  .heraderContent {
+    max-width: 1120px;
+    height: 6.5rem;
+
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 4rem;
+    img {
+      display: block;
+      cursor: pointer;
+    }
+  }
+}
